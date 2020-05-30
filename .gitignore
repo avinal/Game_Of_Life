@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Game of Life/task/build/
+/Game of Life/task/out/
+/Game of Life/task/out/production/classes/
+/Problems/Calculate the number of distinct characters/out/
+/Problems/Calculate the number of distinct characters/out/production/classes/
+/Problems/Find mistake/out/
+/Problems/Find mistake/out/production/classes/
+/Problems/Return empty string when argument is null/out/
+/Problems/Return empty string when argument is null/out/production/classes/
+/Problems/The star figure/out/
+/Problems/The star figure/out/production/classes/
